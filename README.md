@@ -94,19 +94,19 @@
 ###
 
 <div align="left">
-  <a herf="https://www.linkedin.com/in/hazim-abushihab-08a8041b8/">
+  <a href="https://www.linkedin.com/in/hazim-abushihab-08a8041b8/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a herf="https://www.facebook.com/hazem.abushhap">
+  <a href="https://www.facebook.com/hazem.abushhap">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a herf="https://www.instagram.com/hazim_abushihab/">
+  <a href="https://www.instagram.com/hazim_abushihab/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a herf="https://twitter.com/AbushihabHazim">
+  <a href="https://twitter.com/AbushihabHazim">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-<!--   <a herf="hazimabushihab">
+<!--   <a href="hazimabushihab">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a> -->
 </div>
